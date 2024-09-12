@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\lessons\\websignalrapplesson15\\websignalrapplesson15\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|solutionrelative:websignalrapplesson15\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\lessons\\websignalrapplesson15\\websignalrapplesson15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|solutionrelative:websignalrapplesson15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\lessons\\websignalrapplesson15\\websignalrapplesson15\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|solutionrelative:websignalrapplesson15\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\lessons\\websignalrapplesson15\\websignalrapplesson15\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|solutionrelative:websignalrapplesson15\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\lessons\\websignalrapplesson15\\websignalrapplesson15\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|solutionrelative:websignalrapplesson15\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\it step\\my drive\\asp.net\\elvin camalzade\\lessons\\websignalrapplesson15\\websignalrapplesson15\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5573C9AB-C6F5-4F2E-B42F-63A5BACE5EF2}|WebSignalRAppLesson15\\WebSignalRAppLesson15.csproj|solutionrelative:websignalrapplesson15\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Controllers\\OfferController.cs",
+              "RelativeDocumentMoniker": "WebSignalRAppLesson15\\Controllers\\OfferController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Controllers\\OfferController.cs",
+              "RelativeToolTip": "WebSignalRAppLesson15\\Controllers\\OfferController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:22:51.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "WebSignalRAppLesson15\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "WebSignalRAppLesson15\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:20:17.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\data.txt",
+              "RelativeDocumentMoniker": "WebSignalRAppLesson15\\data.txt",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\data.txt",
+              "RelativeToolTip": "WebSignalRAppLesson15\\data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-12T05:19:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebSignalRAppLesson15\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebSignalRAppLesson15\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T16:49:48.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Program.cs",
+              "RelativeDocumentMoniker": "WebSignalRAppLesson15\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Program.cs",
+              "RelativeToolTip": "WebSignalRAppLesson15\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:48:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Hubs\\MessageHub.cs",
+              "RelativeDocumentMoniker": "WebSignalRAppLesson15\\Hubs\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IT STEP\\My Drive\\ASP.NET\\ELVIN CAMALZADE\\Lessons\\WebSignalRAppLesson15\\WebSignalRAppLesson15\\Hubs\\MessageHub.cs",
+              "RelativeToolTip": "WebSignalRAppLesson15\\Hubs\\MessageHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:24:33.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
